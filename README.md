@@ -8,6 +8,14 @@ This Sheet is made for people who want to learn DSA from A to Z for free in a we
 
 The solutions in this repository are intended to serve as a reference and learning resource. It is recommended to understand the problem-solving techniques and attempt to solve the problems yourself before referring to the solutions.
 
+### Prerequisites
+
+- [Java Development Kit](https://www.oracle.com/in/java/technologies/downloads/)
+
+- [Microsoft Visual Studio Code](https://code.visualstudio.com/download)
+
+- [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+
 ### Contribution guidelines
 
 Contributions to this repository are welcome. If you'd like to contribute your own solutions or suggest improvements, please follow these guidelines.
